@@ -1,0 +1,5 @@
+Hello world
+Hello universe
+The quick brown fox jumps over the lazy dog
+Testing word count functionality
+Hello again world
